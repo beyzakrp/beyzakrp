@@ -18,7 +18,7 @@ A web application for shipbuilding and ship manoeuvring calculations, including 
 A multilingual agency website that connects brand identity with responsive interface design and interaction. The implementation includes four locales, reusable motion primitives and reduced-motion support.
 
 **Built with:** Next.js, TypeScript, React, Tailwind CSS and Motion.  
-[Explore the repository](https://github.com/beyzakrp/fourtune-wesite-next)
+[Visit the website](https://fourtuneagency.com) · [Explore the repository](https://github.com/beyzakrp/fourtune-wesite-next)
 
 *In development: the current version includes placeholder content; contact email delivery is not yet connected.*
 
@@ -32,7 +32,7 @@ A jewelry catalog interface with product variants, price and popularity filters,
 A responsive, animated service website with a static deployment workflow and a PHP contact relay. The current scope is a marketing website with a QR-menu demo.
 
 **Built with:** Next.js, React, TypeScript, Tailwind CSS and Motion.  
-[Explore the repository](https://github.com/beyzakrp/seagull-trading-source)
+[Visit the website](https://seagulltrading.me) · [Explore the repository](https://github.com/beyzakrp/seagull-trading-source)
 
 ## How I work
 
